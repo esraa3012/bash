@@ -1,0 +1,7 @@
+Algo 1 
+Toujours et encore sur le même principe, écrivez un algorithme permettant, à l’utilisateur de saisir les notes d'une classe. Le programme, une fois la saisie terminée, renvoie le nombre de ces notes supérieures à la moyenne de la classe.
+
+
+Algo 2
+Ecrivez un algorithme qui permette la saisie d’un nombre quelconque de valeurs. Ensuite faire l'algo qui permet de trier le tableau dans l'ordre croissant.
+

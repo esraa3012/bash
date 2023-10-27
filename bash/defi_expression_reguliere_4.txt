@@ -1,0 +1,14 @@
+Faire un script shell permettant de vérifier la saisie d'un utilisateur via une expression régulière.
+
+Dans la saisie on devra vérifier le pattern suivant
+
+une lettre doit être un A, B ou C 
+suivi d'une autre lettre qui sera n, o ou un p
+suivi d'une autre lettre qui sera  a, b ou c
+
+exemple qui match
+Ana
+Bob
+Cop
+Apa
+...

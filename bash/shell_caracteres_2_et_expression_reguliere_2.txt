@@ -1,0 +1,14 @@
+Defi 1
+
+Ecrivez un algorithme qui demande une phrase à l’utilisateur et qui affiche à l’écran le nombre de mots de cette phrase. On suppose que les mots ne sont séparés que par des espaces. Interdit d'utiliser des fonction prédéfinies de shell comme les expression réguulière ou printf...
+
+
+Defi 2
+
+Avec shell tester l'expression régulière qui vérifie une chaine de 4 caractères
+
+Les trois premiers caractères peuvent êtres n'importe quel caractère et le dernier sera un point.
+
+abd.
+123.
+=e?.

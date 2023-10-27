@@ -1,0 +1,19 @@
+Faire un script shell permettant de vérifier la saisie d'un utilisateur via une expression régulière.
+
+Dans la saisie on devra vérifier le pattern suivant
+
+contient waz
+suivi au minimum de 3z et au maximum de 5z
+
+
+exemple qui match
+wazzzz
+wazzzzz
+wazzzzzz
+zerwazzzzup
+
+
+exempeple qui match pas
+waz
+azewazop
+azewazzzop

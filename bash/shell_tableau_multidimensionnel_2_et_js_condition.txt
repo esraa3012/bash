@@ -1,0 +1,14 @@
+Defi JS
+Ecrivez une condition pour savoir si le contenu de cette variable est supérieur à 10. Afficher oui ou non dans la console.
+
+Defi Shell
+
+Demander à l'utilisateur combien d'élève il va saisir
+Pour chaque élève saisir Demander son nom, prénom et age
+
+Afficher de manière suivante
+
+       Nom       Prénom         Age
+1      Manu      Emmanuel       22
+2      Dupond    Jean           36
+3      Duracelle Jessica        42
